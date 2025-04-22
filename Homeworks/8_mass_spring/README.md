@@ -2,7 +2,7 @@
 
 > 作业步骤：
 > - 查看[文档](./documents/README.md)
-> - 在[作业框架](../../Framework3D/)中编写作业代码
+> - 在[作业框架](../../Framework3D)中编写作业代码，主要是 [MassSpring](../../Framework3D/submissions/assignments/utils/mass_spring/) 文件夹
 > - 按照[作业规范](../README.md)提交作业
 
 ## 作业递交
@@ -56,6 +56,7 @@
   │  │   ├── zzz.png
   │  │   └── ...  
   │  ├── utils/                        // 辅助代码文件
+  │  │   ├── mass_spring/              // **重点要修改的文件夹！**
   │  │   ├── some_algorithm.h
   │  │   ├── some_algorithm.cpp
   │  │   └── ...  
@@ -65,5 +66,5 @@
   │      └── ...  
   ├── id_name_report8.pdf                    // 实验报告
   ├── CMakeLists.txt                // CMakeLists.txt 文件不要删除
-  └── ...                           // 其他补充文件
+  └── ...                           // 其他补充文件（可以提供直观的视频或者 gif!）
   ```
