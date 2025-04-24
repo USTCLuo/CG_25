@@ -139,8 +139,8 @@ NODE_EXECUTION_FUNCTION(mass_spring) {
     mesh->set_vertices(eigen_to_usd_vertices(mass_spring->getX()));
   }
   params.set_output("Output Mesh", geometry);
+  return true;
 }
-NODE_DECLARATION_REQUIRED(mass_spring);
 
 NODE_DECLARATION_UI(mass_spring);
 NODE_DEF_CLOSE_SCOPE
