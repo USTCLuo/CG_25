@@ -51,3 +51,4 @@
 6. Rasterization 光栅化 [->](./6_rasterization/)
 7. PathTracing 路径追踪 [->](./7_path_tracing/)
 8. MassSpring 质点弹簧系统 [->](./8_mass_spring/)
+9. SPHFluid 流体仿真 [->](./9_sph_fluid/)
