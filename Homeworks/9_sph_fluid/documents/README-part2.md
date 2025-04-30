@@ -5,7 +5,7 @@
 原论文链接：[2013_TVCG_IISPH](https://cg.informatik.uni-freiburg.de/publications/2013_TVCG_IISPH.pdf)
 
 <div  align="center">    
- <img src="../images/iisph-teaser.png" style="zoom:96%" />
+ <img width = 100% src="../images/iisph-teaser.png"/>
 </div>
 
 ## 1. Pressure Poisson Equation (PPE) 
@@ -193,7 +193,7 @@ $$
 那么，最后使用松弛Jacobi迭代来求解关于压强的泊松方程（公式(2)）的算法如下（图片来自原论文）：
 
 <div  align="center">    
- <img src="../images/iisph-alg.png" style="zoom:60%" />
+ <img width = 50% src="../images/iisph-alg.png"/>
 </div>
 
 建议大家在看完文档后有了基础认识后，进一步阅读原论文中提到的实现细节(提醒：本算法公式下标比较繁杂，需要小心谨慎), 然后所需要写的代码为[`IISPH.cpp`](../../../Framework3D/submissions/assignments/utils/sph_fluid/iisph.cpp)的以下部分：

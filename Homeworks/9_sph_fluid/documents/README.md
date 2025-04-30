@@ -9,11 +9,11 @@
 为了模拟流体多样的运动及其与固体的交互，我们需要从物理出发，考虑最本质的运动方程。
 
 <div  align="center">    
- <img src="../images/avatar2.gif" style="zoom:96%" />
+ <img width = 75% src="../images/avatar2.gif"/>
 </div>
 
 <div  align="center">    
- <img src="../images/avatar2-3.gif" style="zoom:100%" />
+ <img width = 75% src="../images/avatar2-3.gif"/>
 </div>
 
 流体仿真与一般PDE的求解别无二致，都是基于合适的时间离散与空间离散格式，通过数值方法求解描述其运动的PDE。在流体里面，我们求解的是Navier-Stokes方程: 
@@ -40,7 +40,7 @@ $$
 https://www.zhihu.com/question/26992291/answer/1448275421)
 > 
 > <div  align="center">    
-> <img src="../images/material_derivative.png" style="zoom:50%" />
+> <img width = 75% src="../images/material_derivative.png"/>
 > </div>
 > 
 > 2. 坐火车早上从广州出发，晚上到北京，温度场  $T$  的变化量不仅与时间 $t$ 有关（早上到晚上），也与火车的位置 $\mathbf{x}(t)$ 有关（广州到北京）。
@@ -56,7 +56,7 @@ $$
 结合散度的物理意义（流体的汇聚与发散），我们可以看到不可压缩性其实等价于质量守恒，即空间中任意位置流体的密度的物质导数为0（如果散度不等于0，也就是流体会汇聚到一点 or 从一点流出，那么这一点上流体的质量肯定就会增加 or 减少，不满足质量守恒），如下图所示：
 
 <div  align="center">    
- <img src="../images/div_v.png" style="zoom:80%" />
+ <img width = 75% src="../images/div_v.png"/>
 </div>
 
 那么有了NS方程，我们就可以考虑如何在计算机中求解了！
@@ -82,7 +82,7 @@ $$
 在空间离散上，SPH使用粒子去采样物理场，并通过核函数来拟合未采样到的位置的物理量。
 
 <div  align="center">    
- <img src="../images/sph.png" style="zoom:80%" />
+ <img width = 25% src="../images/sph.png"/>
 </div>
 
 SPH中常用的核函数如下（ $d$ 为仿真的维度 ）：
@@ -113,7 +113,7 @@ static double W_zero(double h);
 为了提高查找效率，我们使用了一个空间网格加速结构：首先将粒子根据空间位置分配到相应的立方体网格中（网格边长等于核函数半径），然后只需遍历当前格子的邻居网格中的粒子进行距离判断即可，将复杂度降低到了 $O(n \times k)$ ( $k$ 为每个格子中的平均粒子数 )。
 
 <div  align="center">    
- <img src="../images/grid.png" style="zoom:30%" />
+ <img width = 30% src="../images/grid.png"/>
 </div>
 
 在每一个时间步的开始，我们需要把粒子分配到网格中，然后更新所有粒子的邻居：
@@ -228,7 +228,7 @@ Vector3d SPHBase::compute_viscosity_acceleration(
 ```
 > 流体的表面张力对流体的视觉效果同样有着很大影响，如[这篇北京大学的工作](https://www.jiqizhixin.com/articles/2021-05-09)。我们这里没有表面张力，如果感兴趣可以阅读[SPH Tutorial综述中的第7节](https://sph-tutorial.physics-simulation.org/pdf/SPH_Tutorial.pdf)，可以自行选择方法实现在作业中，为可选内容。 
 > <div  align="center">    
-> <img src="../images/surface-tension.gif" style="zoom:40%" />
+> <img width = 75% src="../images/surface-tension.gif"/>
 ></div>
 
 下面，我们进一步介绍压力的求解，不同的SPH方法在这里开始有了区别。
@@ -270,7 +270,7 @@ void SPHBase::compute_pressure_gradient_acceleration()
 最后，你需要切换到WCSPH子类，在[`wcsph.cpp`](../../../Framework3D/submissions/assignments/utils/sph_fluid/wcsph.cpp)中实现一个时间步内完整的`step()`函数。
 
 <div  align="center">    
- <img src="../images/step.png" style="zoom:40%" />
+ <img width = 75% src="../images/step.png"/>
 </div>
 
 事实上，对于WCSPH，你可以在计算粒子密度的那个遍历所有粒子的循环中，直接把每个粒子的压强都求出来。为此，你可以在WCSPH类中重载`compute_density()`，函数，直接在计算完密度后算出压强并存储下来。
@@ -317,7 +317,7 @@ void SPHBase::advect()
 边界处理有多种方式。本次作业我们提供了边界处理的代码。我们采用了简单的反弹策略。
 
 <div  align="center">    
- <img src="../images/boundary.png" style="zoom:50%" />
+ <img width = 50% src="../images/boundary.png"/>
 </div>
 
 代码已经提供在[`SPHBase::check_collision()`](../../../Framework3D/submissions/assignments/utils/sph_fluid/sph_base.cpp)，反弹的速度可以通过参数`restitution`调整能量保持的比例。
@@ -331,7 +331,7 @@ void SPHBase::advect()
 如果实现正确，并且调整了合适的参数（如`stiffness` = 500, `exponent`=7, 时间步 `dt`=0.005, `viscosity` = 0.03），可以看到类似下面的结果：
 
 <div  align="center">    
- <img src="../images/wcsph-demo.gif" style="zoom:100%" />
+ <img width = 50% src="../images/wcsph-demo.gif"/>
 </div>
 
 粒子的颜色与速度相关，并根据当前帧的速度的最大和最小范数进行了放缩（闪烁的原因：每一帧最大和最小速度不一样）。
@@ -341,7 +341,7 @@ void SPHBase::advect()
 需要连接的节点图如下，
 
 <div  align="center">    
- <img src="../images/node1.png" style="zoom:100%" />
+ <img width = 100% src="../images/node1.png"/>
 </div>
 
 
@@ -354,13 +354,13 @@ void SPHBase::advect()
 我们提供了`Points to Mesh`节点来从粒子重建mesh，以用于后续的渲染。
 
 <div  align="center">    
- <img src="../images/wcsph-reconstruct-demo.gif" style="zoom:100%" />
+ <img width = 50% src="../images/wcsph-reconstruct-demo.gif"/>
 </div>
 
 节点图如下，只需要将上一个节点图 `Set Vertex Color`节点的输出连接到`Points to Mesh`的`Points`输入即可。注意当前points的width都设置为0.05，`Points to Mesh`节点的参数`Voxel Size`不能大于这个width。
 
 <div  align="center">    
- <img src="../images/node2.png" style="zoom:100%" />
+ <img width = 100% src="../images/node2.png"/>
 </div>
 
 ## 7. (Optional) OpenMP 并行
