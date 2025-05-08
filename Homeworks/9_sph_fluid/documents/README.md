@@ -363,6 +363,12 @@ void SPHBase::advect()
  <img width = 100% src="../images/node2.png"/>
 </div>
 
+参考的渲染节点（切换到 HW6 使用的第四个渲染器，并手动导入环境光等光源）（其中用到的的节点和 shader 都已经写好）：
+
+<div  align="center">    
+ <img width = 100% src="../images/render.png"/>
+</div>
+
 ## 7. (Optional) OpenMP 并行
 
 遍历粒子时，可以考虑使用并行来提高程序的性能，这里大家可以考虑使用OpenMP实现多线程并行。
