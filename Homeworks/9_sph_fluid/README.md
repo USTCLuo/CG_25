@@ -40,7 +40,6 @@
 文件命名为 `ID_姓名_Homework*.rar/zip`，其中包含：
 
   - 你的 `xxx_homework/`文件夹（拷贝并改名自 [assignments/](../../Framework3D/submissions/assignments/)，不要包含中文，详见 [F3D_kickstart.pdf](../../Framework3D/F3D%20kickstart.pdf)）
-  - 节点连接信息（stage.usdc，来自框架目录下的 `Assets/` 文件夹，请一并拷贝到上边的 `xxx_homework/`文件夹里）；
   - 报告（命名为 `id_name_report9.pdf`）
   
   具体请务必严格按照如下的格式提交：
@@ -48,7 +47,6 @@
   ```
   ID_姓名_homework*/                // 你提交的压缩包
   ├── xxx_homework/                  
-  │  ├── stage.usdc                    // （额外添加）本次作业的节点连接信息
   │  ├── data/                         // 测试模型和纹理
   │  │   ├── xxx.usda
   │  │   ├── yyy.usda
