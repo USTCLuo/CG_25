@@ -120,11 +120,11 @@ void Animator::update_mesh_vertices()
  <img src="../images/hw10-demo.gif" style="zoom:100%" />
 </div>
 
-<!-- 所需要连接的节点图如下, `Prim Path`为`/root/Armature/Ch03/Mesh_001`。
+所需要连接的节点图如下, `Prim Path`为`/root/Armature/Ch03/Mesh_001`。
 
 <div  align="center">    
  <img src="../images/nodes-dance.png" style="zoom:100%" />
-</div> -->
+</div>
 
 恭喜你，至此已经完成了本次作业的必做部分！
 
