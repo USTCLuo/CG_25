@@ -46,6 +46,9 @@
 
 那么，子关节在`worldTransform`应该是父关节的`worldTransform`再复合上子关节的`localTransform` (公式请自己推导)。
 
+> [!Note]
+> 注意，在实现的时候，文件存储/程序读取的 Transform 矩阵可能会和我们上课讲的有出入，**例如相差一个转置**，这会影响到矩阵复合和变换中左乘、右乘的选择，可以将读取的矩阵打印出来确认。
+
 为了实现这一变换，本次作业中，你需要实现的是[`animator.cpp`](../../../Framework3D/submissions/assignments/utils/character_animation/animator.cpp)中的函数：
 
 ```c++
@@ -80,9 +83,10 @@ $$
 \widetilde{\mathbf{x}} = \sum_i^n w_i \mathbf{T}_i \mathbf{B}_i^{-1} \widetilde{\mathbf{x}}^0
 $$
 
-其中 $\mathbf{T}_i$ 和 $\mathbf{B}_i$ 分别为第 $i$ 个关节的 `worldTransform`和`bindTransform`,  $n$ 为对顶点 $\mathbf{x}$ 产生影响的关节数 （需要通过`jointIndices`的长度除以顶点数得到）， $\widetilde{\mathbf{x}} = [\vec{\mathbf{x}}, 1] \in \mathbb{R}^{4 \times 1}$  。
+其中 $\mathbf{T}_i$ 和 $\mathbf{B}_i$ 分别为第 $i$ 个关节的 `worldTransform`和`bindTransform`,  $n$ 为对顶点 $\mathbf{x}$ 产生影响的关节数 （需要通过`jointIndices`的长度除以顶点数得到）， $\widetilde{\mathbf{x}} = [\vec{\mathbf{x}}, 1] \in \mathbb{R}^{4 \times 1}$。
 
-这里4x4矩阵对3维向量的变换可以使用`GfMatrix4f`的[`TransformAffine`](https://openusd.org/dev/api/class_gf_matrix4f.html#ac379f460c0ef02fddd31ee3dc11f284d:~:text=%E2%97%86-,TransformAffine(),-%5B2/2%5D) 函数或[`Transform`](https://openusd.org/dev/api/class_gf_matrix4f.html#ac379f460c0ef02fddd31ee3dc11f284d:~:text=%E2%97%86-,Transform(),-%5B2/2%5D)函数实现（根据你的实现方式选择使用哪一个，先阅读一下两个函数的文档）。
+> [!Note]
+> 和前面提到的一样，在实际实现的时候，公式中矩阵复合的方向和矩阵定义有关。这里4x4矩阵对3维向量的变换也可以不直接使用乘法，而是使用`GfMatrix4f`的[`TransformAffine`](https://openusd.org/dev/api/class_gf_matrix4f.html#ac379f460c0ef02fddd31ee3dc11f284d:~:text=%E2%97%86-,TransformAffine(),-%5B2/2%5D) 函数或[`Transform`](https://openusd.org/dev/api/class_gf_matrix4f.html#ac379f460c0ef02fddd31ee3dc11f284d:~:text=%E2%97%86-,Transform(),-%5B2/2%5D)函数实现（根据你的实现方式选择使用哪一个，先阅读一下两个函数的文档）。
 
 你需要实现[`animator.cpp`](../../../Framework3D/submissions/assignments/utils/character_animation/animator.cpp)中的函数：
 
@@ -123,6 +127,50 @@ void Animator::update_mesh_vertices()
 </div> -->
 
 恭喜你，至此已经完成了本次作业的必做部分！
+
+> [!Note]
+> ### usda文件是如何记录动画的
+> 
+> 首先，我们了解一下 usda 文件中对动画运动的记录，用文本编辑器打开 `belly_dance_girl.usda` 或者 `arm.usda` 文件，在文件的最开始有一段描述，简要记录了起始和终止的 TimeCode（对应我们时间轴上的值），以及 `timeCodesPerSecond` （每秒播放多少个 timecode，我们在框架中设置好了也为 30）：
+> ```
+> (
+>    defaultPrim = "root"
+>    doc = "Blender v4.1.1"
+>    endTimeCode = 250
+>    metersPerUnit = 1
+>    startTimeCode = 1
+>    timeCodesPerSecond = 30
+>    upAxis = "Z"
+> )
+> ```
+> 在文件的下面内容中，可以看到变化矩阵对时间的采样，例如：translations.timeSamples 等等，它的格式形如
+> ```
+> 123(关键帧timecode): [(x, y, z), ...] (具体的值) 
+> ```
+> 就是指定的 timecode 下网格对象具体应该设置哪些值。
+
+> [!Note]
+> ### 如何调整动画的读取和播放速度
+> 我们在框架中提供了两种方式调整动画的读取和播放速度，其基本逻辑是改变每一帧执行节点图时，时间轴增长的时间量。我们可以打开 [`USTC_CG.cpp`](../../../../../Framework3D/Framework3D/tests/application/USTC_CG.cpp) 文件简单设置。
+> #### 方法一：设置每一帧增加的timecode值
+> 找到如下的代码段，修改 `0.15f`（每一帧增加多少timecode），
+> ```cpp
+> #else
+>    window->register_function_before_frame([&stage](Window* window) {
+>        stage->set_delta_time(0.15f);
+>        stage->tick(stage->get_delta_time());
+>    });
+>#endif
+> ```
+> #### 方法二：在文件开头定义 `REAL_TIME`（建议在 RELEASE 模式下使用）
+> ```cpp
+> using namespace USTC_CG;
+>
+>//#define REAL_TIME (取消这个注释)
+>
+>int main()
+> ```
+> 这样每一帧会按照这一帧的实际时间更新 timecode，按照每一秒 30个 timecode 换算。
 
 **提交作业时，需要附上`arm.usda`和`belly_dance_girl.usda`的动画结果的视频或gif。**
 

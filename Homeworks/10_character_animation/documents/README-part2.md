@@ -16,7 +16,11 @@
  <img src="../images/arm-with-cloth.gif" style="zoom:70%" />
 </div>
 
-节点图如下。
+节点图如下这里，我们需要设置两个读取 usd 文件的路径：
+- arm 模型，它的路径在 `root/Model/Mesh/Mesh`；
+- grid 布料，它的路径在 `root/Grid/Grid`；
+
+也可以通过打开 usda 文件确认。
 
 
 <div  align="center">    
@@ -55,6 +59,17 @@
 <div  align="center">    
  <img src="../images/girl-with-cloth-intersect.gif" style="zoom:70%" />
 </div>
+
+参考的节点连接：
+<div  align="center">    
+ <img src="../images/node-girl-with-skirt.png" style="zoom:70%" />
+</div>
+
+这里我们用到的模型路径：
+- 人物模型：`/root/Armature/Ch03/Mesh`；
+- skirt 布料：`/root/skirt/skirt`
+
+在进行运算之前，我们需要通过新增的 `apply_transform_geom` 节点调整网格的大小，相关参数如图所示。
 
 可以自行实现上文介绍的布料与人体碰撞的处理方法，甚至进一步考虑布料自碰撞的处理。
 
