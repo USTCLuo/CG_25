@@ -8,7 +8,7 @@ namespace USTC_CG
 using uchar = unsigned char;
 
 WarpingWidget::WarpingWidget(const std::string& label, const std::string& filename)
-    : ImageWidget(label, filename)
+    : ImageWidget(label, filename),idw_warper_(),rbf_warper_(),annoy_index_(2)
 {
     if (data_)
         back_up_ = std::make_shared<Image>(*data_);
@@ -115,12 +115,13 @@ void WarpingWidget::warping()
 
     // Create a new image to store the result
     Image warped_image(*data_);
+    std::vector<std::vector<bool>> pixel_known(data_->width(), std::vector<bool>(data_->height(), false));
     // Initialize the color of result image
     for (int y = 0; y < data_->height(); ++y)
     {
         for (int x = 0; x < data_->width(); ++x)
         {
-            warped_image.set_pixel(x, y, { 0, 0, 0 });
+            warped_image.set_pixel(x, y, { 255, 255, 255 });
         }
     }
 
@@ -152,20 +153,87 @@ void WarpingWidget::warping()
                     }
                 }
             }
+            
             break;
         }
         case kIDW:
         {
+            build_annoy_index(annoy_index_, *back_up_);
             // HW2_TODO: Implement the IDW warping
+            for (int y = 0; y < data_->height(); ++y)
+            {
+                for (int x = 0; x < data_->width(); ++x)
+                {
+                    auto [new_x, new_y] = idw_warper_.warp(x, y);
+                    if (new_x >= 0 && new_x < data_->width() && new_y >= 0 && new_y < data_->height())
+                    {
+                        std::vector<unsigned char> pixel = data_->get_pixel(x, y);
+                        warped_image.set_pixel(new_x, new_y, pixel);
+                    }
+                }
+            }
+            for (int y = 0; y < data_->height(); ++y)
+            {
+                for (int x = 0; x < data_->width(); ++x)
+                {
+                    if (!pixel_known[x][y])
+                    {
+                        auto [orig_x, orig_y] = idw_warper_.inverse_warp(x, y, 10, 1e-4);
+                        if (orig_x >= 0 && orig_x < data_->width() && orig_y >= 0 && orig_y < data_->height())
+                        {
+                            // Use Annoy index to find nearby pixels and interpolate
+                            float sigma = 10.0f;
+                            std::vector<unsigned char> pixel = get_nearby_pixels(orig_x, orig_y, 10, annoy_index_, *back_up_, sigma);
+                            warped_image.set_pixel(x, y, pixel);
+                        }
+                    }
+                    
+                }
+            }
             // use selected points start_points_, end_points_ to construct the map
-            std::cout << "IDW not implemented." << std::endl;
+            std::cout << "IDW implemented." << std::endl;
             break;
         }
         case kRBF:
         {
             // HW2_TODO: Implement the RBF warping
+            // Fill in the gaps using the inverse function from RBF warper
+            build_annoy_index(annoy_index_, *back_up_);
+
+            for (int y = 0; y < data_->height(); ++y)
+            {
+                for (int x = 0; x < data_->width(); ++x)
+                {
+                    auto [new_x, new_y] = rbf_warper_.warp(x, y);
+                    if (new_x >= 0 && new_x < data_->width() && new_y >= 0 && new_y < data_->height())
+                    {
+                        pixel_known[new_x][new_y] = true;
+                        std::vector<unsigned char> pixel = data_->get_pixel(x, y);
+                        warped_image.set_pixel(new_x, new_y, pixel);
+                    }
+                }
+            }
+            // Fill in the gaps using the inverse function from RBF warper
+            for (int y = 0; y < data_->height(); ++y)
+            {
+                for (int x = 0; x < data_->width(); ++x)
+                {
+                    if (!pixel_known[x][y])
+                    {
+                        auto [orig_x, orig_y] = rbf_warper_.inverse_warp(x, y, 10, 1e-4);
+                        if (orig_x >= 0 && orig_x < data_->width() && orig_y >= 0 && orig_y < data_->height())
+                        {
+                            // Use Annoy index to find nearby pixels and interpolate
+                            float sigma = 10.0f;
+                            std::vector<unsigned char> pixel = get_nearby_pixels(orig_x, orig_y, 10, annoy_index_, *back_up_, sigma);
+                            warped_image.set_pixel(x, y, pixel);
+                        }
+                    }
+                    
+                }
+            }
             // use selected points start_points_, end_points_ to construct the map
-            std::cout << "RBF not implemented." << std::endl;
+            std::cout << "RBF implemented." << std::endl;
             break;
         }
         default: break;
@@ -226,6 +294,24 @@ void WarpingWidget::select_points()
         {
             start_points_.push_back(start_);
             end_points_.push_back(end_);
+            if (start_.x >= 0 && start_.x < data_->width() &&
+            start_.y >= 0 && start_.y < data_->height() &&
+            end_.x >= 0 && end_.x < data_->width() &&
+            end_.y >= 0 && end_.y < data_->height())
+            {
+                idw_warper_.add_control_point(
+                start_.x, start_.y,
+                end_.x, end_.y
+                );
+                std::vector<Eigen::Vector2f> start_points, end_points;
+                for (size_t i = 0; i < start_points_.size(); ++i) {
+                    start_points.emplace_back(Eigen::Vector2f(start_points_[i].x, start_points_[i].y));
+                    end_points.emplace_back(Eigen::Vector2f(end_points_[i].x, end_points_[i].y));
+                }
+                rbf_warper_.setControlPoints(start_points, end_points);  // 更新 RBFWarper
+            
+            }
+            
             draw_status_ = false;
         }
     }
@@ -253,6 +339,8 @@ void WarpingWidget::init_selections()
 {
     start_points_.clear();
     end_points_.clear();
+    idw_warper_.clear_control_points();
+    rbf_warper_.clearControlPoints();
 }
 
 std::pair<int, int>

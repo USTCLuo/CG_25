@@ -44,9 +44,38 @@ void MiniDraw::draw_canvas()
 
         // HW1_TODO: More primitives
         //    - Ellipse
+        ImGui::SameLine();
+        if(ImGui::Button("Ellipse"))
+        {
+            std::cout <<"Set shape to Ellipse"<<std::endl;
+            p_canvas_->set_ellipse();
+        }
         //    - Polygon
+        ImGui::SameLine();
+        if(ImGui::Button("Polygon"))
+        {
+            std::cout << "Set shape to Polygon"<<std::endl;
+            p_canvas_->set_polygon();
+        }
         //    - Freehand(optional)
-        
+        ImGui::SameLine();
+        if(ImGui::Button("Freehand"))
+        {
+            std::cout << "Set shape to Freehand"<<std::endl;
+            p_canvas_->set_freehand();
+        }
+        ImGui::SameLine();
+        if(ImGui::Button("edit line thickness"))
+        {
+            std::cout << "Edit your line thickness"<<std::endl;
+            p_canvas_->set_thickness();
+        }
+        ImGui::SameLine();
+        if(ImGui::Button("edit line color"))
+        {
+            std::cout << "Edit your line color"<<std::endl;
+            p_canvas_->set_color();
+        }
         // Canvas component
         ImGui::Text("Press left mouse to add shapes.");
         // Set the canvas to fill the rest of the window

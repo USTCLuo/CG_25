@@ -11,8 +11,8 @@ class Shape
         // Offset to convert canvas position to screen position
         float bias[2] = { 0.f, 0.f };
         // Line color in RGBA format
-        unsigned char line_color[4] = { 255, 0, 0, 255 };
-        float line_thickness = 2.0f;
+        int  line_color[4] = { 255, 0, 0, 255 };
+        float line_thickness=2.0f;
     };
 
    public:

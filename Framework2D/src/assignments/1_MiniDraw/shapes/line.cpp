@@ -18,7 +18,8 @@ void Line::draw(const Config& config) const
             config.line_color[1],
             config.line_color[2],
             config.line_color[3]),
-        config.line_thickness);
+        config.line_thickness
+    );
 }
 
 void Line::update(float x, float y)

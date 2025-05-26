@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="22" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="USTC_CG_Framework3D" targetName="node_test_2d_function" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_shadertoy_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_vector_to_usd" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_util_lib_static" />
+      <config projectName="USTC_CG_Framework3D" targetName="Logger" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_shadow_mapping_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="automatic_tonemapper" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_write_polyscope" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_storage" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_print" />
+      <config projectName="USTC_CG_Framework3D" targetName="OpenMeshCore" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_ssao_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="gradient_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_test_random_quantity" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_ssao" />
+      <config projectName="USTC_CG_Framework3D" targetName="stage_listener" />
+      <config projectName="USTC_CG_Framework3D" targetName="nodes_system" />
+      <config projectName="USTC_CG_Framework3D" targetName="gtest" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_add" />
+      <config projectName="USTC_CG_Framework3D" targetName="rhi_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_nodes_hw_submissions_render_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_multiply_forward_real" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_present_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_composition_forward_real" />
+      <config projectName="USTC_CG_Framework3D" targetName="nodes_core_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_rng_texture" />
+      <config projectName="USTC_CG_Framework3D" targetName="embree_sse42" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_transform_geom" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_shortest_path" />
+      <config projectName="USTC_CG_Framework3D" targetName="polyscope_widget" />
+      <config projectName="USTC_CG_Framework3D" targetName="submissions_nodes" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_hbc" />
+      <config projectName="USTC_CG_Framework3D" targetName="optimization_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="gtest_main" />
+      <config projectName="USTC_CG_Framework3D" targetName="nodes_exec_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_deferred_lighting_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_present" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_sample_particles_in_box" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_vertface_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="geometry_processing_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_nodes_hw_submissions_render_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_merge_geometry" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_nodes_hw_submissions_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_shadow_mapping_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_vertices_by_left_click" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_shadertoy_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="glad" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_rasterize_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="simulation_zone" />
+      <config projectName="USTC_CG_Framework3D" targetName="submissions_inner_nodes" />
+      <config projectName="USTC_CG_Framework3D" targetName="hd_USTC_CG_Embree" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_mesh_editing" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_motion_vec" />
+      <config projectName="USTC_CG_Framework3D" targetName="renderer_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_min_surf" />
+      <config projectName="USTC_CG_Framework3D" targetName="hd_USTC_CG" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_nodes_hw_submissions_render_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_create_geom" />
+      <config projectName="USTC_CG_Framework3D" targetName="demos" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_sph_fluid" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_picked_vertex" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_shadow_mapping_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_add_forward_dual" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_bouncing_balls" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_dirichlet_energy" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_system_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_rasterize_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="render_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_ray_launch" />
+      <config projectName="USTC_CG_Framework3D" targetName="simd" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_add_forward_real" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_blit_to_present" />
+      <config projectName="USTC_CG_Framework3D" targetName="mtlx_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="usdview_widget_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_polyscope_transform" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_add_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_min_surf" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_min_surf" />
+      <config projectName="USTC_CG_Framework3D" targetName="glm" />
+      <config projectName="USTC_CG_Framework3D" targetName="USTC_CG_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="glfw" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_mesh_editing" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_ssao_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_extract_boundary" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_func_buffer_compose" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_math" />
+      <config projectName="USTC_CG_Framework3D" targetName="gradient_forward_real" />
+      <config projectName="USTC_CG_Framework3D" targetName="hd_USTC_CG_GL" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_current_usd_path" />
+      <config projectName="USTC_CG_Framework3D" targetName="polyscope" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_read_obj" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_boundary_mapping" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_extract_areas" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_visualize_vertices_path" />
+      <config projectName="USTC_CG_Framework3D" targetName="tome_mapping" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_func_color_map" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_11" />
+      <config projectName="USTC_CG_Framework3D" targetName="cuda_extension_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_10" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_package" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_input" />
+      <config projectName="USTC_CG_Framework3D" targetName="hessian_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_mass_spring" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_mass_spring" />
+      <config projectName="USTC_CG_Framework3D" targetName="OpenMeshTools" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_write_usd" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_shadertoy_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_curvature" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_print_debug" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_test_socket" />
+      <config projectName="USTC_CG_Framework3D" targetName="device_object_pool_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_util_lib_static" />
+      <config projectName="USTC_CG_Framework3D" targetName="nvrhi" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_deferred_lighting_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_nodes_hw_submissions_render_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="geometry" />
+      <config projectName="USTC_CG_Framework3D" targetName="tasking" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_nodes_hw_submissions_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_vertvert_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_random_uv_points" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_polyscope_vertex_pos" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_sample_particles_in_box" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_test_random_color" />
+      <config projectName="USTC_CG_Framework3D" targetName="l_bfgs_forward_real" />
+      <config projectName="USTC_CG_Framework3D" targetName="embree_avx2" />
+      <config projectName="USTC_CG_Framework3D" targetName="nodes_ui_imgui" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_shadertoy_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="triangle" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_rasterize" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_composition_forward_dual" />
+      <config projectName="USTC_CG_Framework3D" targetName="USTC_CG_polyscope_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="igl_restricted_triangle" />
+      <config projectName="USTC_CG_Framework3D" targetName="stb_image" />
+      <config projectName="USTC_CG_Framework3D" targetName="nodes_core" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_camera_info" />
+      <config projectName="USTC_CG_Framework3D" targetName="translation_orientation_to_transforms" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_edgeedge_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_picked_face" />
+      <config projectName="USTC_CG_Framework3D" targetName="cpu_slang_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_equal" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_sync_sockets" />
+      <config projectName="USTC_CG_Framework3D" targetName="l_bfgs_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_create_empty_texture" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_deferred_lighting_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_mesh_add_quantity" />
+      <config projectName="USTC_CG_Framework3D" targetName="embree_avx" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_read_usd" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_composition_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_iteration" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_arap_energy" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_shadow_mapping" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_curve_to_mesh" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_shadertoy_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_set_texture" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_shadow_mapping_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_5" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_4" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_7" />
+      <config projectName="USTC_CG_Framework3D" targetName="math" />
+      <config projectName="USTC_CG_Framework3D" targetName="RHI" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_6" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_ssao_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_1" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_deferred_lighting_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_3" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_2" />
+      <config projectName="USTC_CG_Framework3D" targetName="gmock" />
+      <config projectName="USTC_CG_Framework3D" targetName="sys" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_9" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_function_8" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_time_code" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_multiply_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_func_buffer_decompose" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_meshmesh_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_arap" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_min_surf_cotangent_weight" />
+      <config projectName="USTC_CG_Framework3D" targetName="igl_core" />
+      <config projectName="USTC_CG_Framework3D" targetName="function_multiply_forward_dual" />
+      <config projectName="USTC_CG_Framework3D" targetName="newton_forward" />
+      <config projectName="USTC_CG_Framework3D" targetName="stage_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_mesh_editing" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_output" />
+      <config projectName="USTC_CG_Framework3D" targetName="embree" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_ssao_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="usdview_widget" />
+      <config projectName="USTC_CG_Framework3D" targetName="gmock_main" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_rayleigh_sommerfeld" />
+      <config projectName="USTC_CG_Framework3D" targetName="hessian_forward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_mvc" />
+      <config projectName="USTC_CG_Framework3D" targetName="GUI" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_mesh_decompose" />
+      <config projectName="USTC_CG_Framework3D" targetName="build" />
+      <config projectName="USTC_CG_Framework3D" targetName="lexers" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_environment_pass_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_rasterize_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_triangulate" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_dynamic_socket" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_lscm" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_node_mvc" />
+      <config projectName="USTC_CG_Framework3D" targetName="geometry_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_print_debug_info" />
+      <config projectName="USTC_CG_Framework3D" targetName="l_bfgs_forward_dual" />
+      <config projectName="USTC_CG_Framework3D" targetName="usd_fileviewer_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="gl_based_render_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_ssao_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_boundary_mapping" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_float_3dto2d" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_deferred_lighting" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_func_create_buffer" />
+      <config projectName="USTC_CG_Framework3D" targetName="miss_sky" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_environment_pass_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="GUI_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_shadow_mapping_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_render_environment_pass_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_test_uv" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_picked_vertices" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_render_rasterize_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="test_integration" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_transform_decompose" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_value" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_deferred_lighting_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_environment_pass_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_transparent_refraction_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_vertmesh_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_visualize_2d_function" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_arap" />
+      <config projectName="USTC_CG_Framework3D" targetName="newton_backward" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_geom_add_point" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_points_to_mesh" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_transform_compose" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_material_eval_sample_pdf" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_conversion" />
+      <config projectName="USTC_CG_Framework3D" targetName="polyscope_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_transparent_refraction" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_mesh_compose" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_node_render_ray_generation" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_rng_buffer" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_nodes_hw_submissions_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_taa" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_set_vert_color" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_bbw" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_ui_test" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_node_render_rasterize_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_sph_fluid" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_sub" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments8_lty_node_arap" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_util_lib_static" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_nodes_hw_submissions_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_shadertoy" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_scatter_contribution" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_hw0" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_inner_node_render_environment_pass_gl" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_render_environment_pass" />
+      <config projectName="USTC_CG_Framework3D" targetName="accumulate" />
+      <config projectName="USTC_CG_Framework3D" targetName="assignments_lty_node_boundary_mapping" />
+      <config projectName="USTC_CG_Framework3D" targetName="basic_nodes_json_target" />
+      <config projectName="USTC_CG_Framework3D" targetName="imgui" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_polyscope_vertices" />
+      <config projectName="USTC_CG_Framework3D" targetName="uninstall" />
+      <config projectName="USTC_CG_Framework3D" targetName="stage" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_vertedge_dist" />
+      <config projectName="USTC_CG_Framework3D" targetName="update_mappings" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_get_control_points" />
+      <config projectName="USTC_CG_Framework3D" targetName="node_extract_singlar_values" />
+      <config projectName="USTC_CG_Framework3D" targetName="gradient_forward_dual" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Release-Visual Studio" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="Visual Studio" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22c10da4-eaa1-44a8-83d5-159decc95ffb" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/canvas_widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/canvas_widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/canvas_widget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/canvas_widget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/minidraw_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/minidraw_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/line.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/line.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/line.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/line.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/shape.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/1_MiniDraw/shapes/shape.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/IDW_warper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/IDW_warper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/IDW_warper.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/IDW_warper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/RBF_warper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/RBF_warper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/RBF_warper.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/RBF_warper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/warper.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/warper.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/warper.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warper/warper.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warping_widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warping_widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warping_widget.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/2_ImageWarping/warping_widget.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/poisson_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/poisson_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/poisson_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/poisson_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/source_image_widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/source_image_widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/target_image_widget.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Framework2D/src/assignments/3_PoissonImageEditing/target_image_widget.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Core/nodes/system/src/node_system_dl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Core/nodes/system/src/node_system_dl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/integrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/integrator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/integrators/path.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/integrators/path.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/light.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/light.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/light.h" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/light.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/renderer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Framework3D/source/Plugins/hd_USTC_CG_Embree/renderer.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release-Visual Studio" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;assignee&quot;: &quot;Jerry-Shen0527&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Jerry-Shen0527&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Jerry-Shen0527/entt.git&quot;,
+    &quot;accountId&quot;: &quot;7837830c-c2d8-48e0-9eb8-b4c168491c05&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3.5" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vOy6jgXPO2LuBZSaTdF2bpvb0v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Google Test.USTC_CG_test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;ctest.advertisement.all.test.configuration.is.created&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/FirstSpringTerm/CG_25/Framework3D&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Google Test.USTC_CG_test">
+    <configuration name="GUI_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="GUI_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="GUI_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USTC_CG_polyscope_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="USTC_CG_polyscope_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="USTC_CG_polyscope_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="USTC_CG_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="USTC_CG_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="USTC_CG_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpu_slang_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="cpu_slang_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="cpu_slang_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cuda_extension_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="cuda_extension_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="cuda_extension_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="device_object_pool_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="device_object_pool_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="device_object_pool_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_processing_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="geometry_processing_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="geometry_processing_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mtlx_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="mtlx_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="mtlx_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_system_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_system_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="node_system_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_ui_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_ui_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="node_ui_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodes_core_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nodes_core_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="nodes_core_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodes_exec_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nodes_exec_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="nodes_exec_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="renderer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="renderer_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="renderer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rhi_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="rhi_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="rhi_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stage_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="stage_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="stage_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usd_fileviewer_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="usd_fileviewer_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="usd_fileviewer_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usdview_widget_test" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="usdview_widget_test" CONFIG_NAME="Release-Visual Studio" RUN_TARGET_PROJECT_NAME="USTC_CG_Framework3D" RUN_TARGET_NAME="usdview_widget_test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="GUI" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Logger" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="Logger" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenMeshCore" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="OpenMeshCore" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenMeshTools" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="OpenMeshTools" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RHI" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="RHI" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="accumulate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="accumulate" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_arap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_arap" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_boundary_mapping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_boundary_mapping" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_mass_spring" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_mass_spring" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_mesh_editing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_mesh_editing" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_min_surf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_min_surf" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_deferred_lighting_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_deferred_lighting_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_environment_pass_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_environment_pass_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_rasterize_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_rasterize_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_shadertoy_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_shadertoy_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_shadow_mapping_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_shadow_mapping_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_render_ssao_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_render_ssao_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_sample_particles_in_box" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_sample_particles_in_box" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_node_sph_fluid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_node_sph_fluid" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_nodes_hw_submissions_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_nodes_hw_submissions_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_nodes_hw_submissions_render_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_nodes_hw_submissions_render_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments8_lty_util_lib_static" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments8_lty_util_lib_static" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_hw0" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_hw0" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_deferred_lighting_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_deferred_lighting_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_environment_pass_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_environment_pass_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_rasterize_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_rasterize_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_shadertoy_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_shadertoy_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_shadow_mapping_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_shadow_mapping_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_node_render_ssao_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_node_render_ssao_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_nodes_hw_submissions_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_nodes_hw_submissions_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_inner_nodes_hw_submissions_render_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_inner_nodes_hw_submissions_render_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_arap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_arap" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_boundary_mapping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_boundary_mapping" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_mesh_editing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_mesh_editing" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_min_surf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_min_surf" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_min_surf_cotangent_weight" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_min_surf_cotangent_weight" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_deferred_lighting_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_deferred_lighting_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_environment_pass_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_environment_pass_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_rasterize_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_rasterize_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_shadertoy_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_shadertoy_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_shadow_mapping_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_shadow_mapping_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_node_render_ssao_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_node_render_ssao_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_nodes_hw_submissions_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_nodes_hw_submissions_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_nodes_hw_submissions_render_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_nodes_hw_submissions_render_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_lty_util_lib_static" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_lty_util_lib_static" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_arap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_arap" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_boundary_mapping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_boundary_mapping" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_mass_spring" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_mass_spring" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_mesh_editing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_mesh_editing" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_min_surf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_min_surf" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_deferred_lighting_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_deferred_lighting_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_environment_pass_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_environment_pass_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_rasterize_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_rasterize_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_shadertoy_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_shadertoy_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_shadow_mapping_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_shadow_mapping_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_render_ssao_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_render_ssao_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_sample_particles_in_box" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_sample_particles_in_box" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_node_sph_fluid" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_node_sph_fluid" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_nodes_hw_submissions_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_nodes_hw_submissions_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_nodes_hw_submissions_render_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_nodes_hw_submissions_render_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="assignments_util_lib_static" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="assignments_util_lib_static" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="automatic_tonemapper" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="automatic_tonemapper" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="basic_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="basic_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="build" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demos" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="demos" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="embree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="embree" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="embree_avx" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="embree_avx" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="embree_avx2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="embree_avx2" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="embree_sse42" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="embree_sse42" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_add_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_add_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_add_forward_dual" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_add_forward_dual" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_add_forward_real" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_add_forward_real" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_composition_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_composition_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_composition_forward_dual" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_composition_forward_dual" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_composition_forward_real" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_composition_forward_real" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_multiply_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_multiply_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_multiply_forward_dual" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_multiply_forward_dual" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="function_multiply_forward_real" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="function_multiply_forward_real" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="geometry" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="geometry_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="geometry_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gl_based_render_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gl_based_render_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glad" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="glad" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="glfw" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glm" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="glm" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gmock" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gmock_main" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gradient_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gradient_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gradient_forward_dual" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gradient_forward_dual" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gradient_forward_real" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gradient_forward_real" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gtest" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="gtest_main" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hd_USTC_CG" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="hd_USTC_CG" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hd_USTC_CG_Embree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="hd_USTC_CG_Embree" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hd_USTC_CG_GL" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="hd_USTC_CG_GL" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hessian_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="hessian_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hessian_forward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="hessian_forward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="igl_core" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="igl_core" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="igl_restricted_triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="igl_restricted_triangle" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="imgui" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="imgui" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l_bfgs_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="l_bfgs_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l_bfgs_forward_dual" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="l_bfgs_forward_dual" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l_bfgs_forward_real" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="l_bfgs_forward_real" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lexers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="lexers" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="math" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="miss_sky" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="miss_sky" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newton_backward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="newton_backward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newton_forward" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="newton_forward" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_add" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_add" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_arap_energy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_arap_energy" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_bbw" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_bbw" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_bouncing_balls" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_bouncing_balls" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_conversion" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_conversion" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_create_geom" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_create_geom" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_curvature" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_curvature" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_curve_to_mesh" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_curve_to_mesh" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_dirichlet_energy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_dirichlet_energy" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_dynamic_socket" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_dynamic_socket" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_edgeedge_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_edgeedge_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_equal" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_equal" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_extract_areas" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_extract_areas" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_extract_boundary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_extract_boundary" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_extract_singlar_values" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_extract_singlar_values" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_float_3dto2d" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_float_3dto2d" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_func_buffer_compose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_func_buffer_compose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_func_buffer_decompose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_func_buffer_decompose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_func_color_map" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_func_color_map" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_func_create_buffer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_func_create_buffer" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_geom_add_point" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_geom_add_point" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_control_points" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_control_points" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_current_usd_path" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_current_usd_path" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_picked_face" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_picked_face" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_picked_vertex" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_picked_vertex" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_picked_vertices" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_picked_vertices" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_polyscope_transform" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_polyscope_transform" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_polyscope_vertex_pos" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_polyscope_vertex_pos" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_polyscope_vertices" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_polyscope_vertices" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_get_vertices_by_left_click" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_get_vertices_by_left_click" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_hbc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_hbc" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_iteration" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_iteration" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_lscm" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_lscm" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_math" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_math" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_merge_geometry" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_merge_geometry" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_mesh_add_quantity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_mesh_add_quantity" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_mesh_compose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_mesh_compose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_mesh_decompose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_mesh_decompose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_meshmesh_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_meshmesh_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_mvc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_mvc" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_node_render_ray_generation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_node_render_ray_generation" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_points_to_mesh" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_points_to_mesh" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_print" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_print" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_print_debug_info" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_print_debug_info" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_random_uv_points" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_random_uv_points" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_read_obj" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_read_obj" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_read_usd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_read_usd" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_blit_to_present" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_blit_to_present" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_camera_info" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_camera_info" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_create_empty_texture" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_create_empty_texture" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_deferred_lighting" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_deferred_lighting" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_deferred_lighting_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_deferred_lighting_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_environment_pass" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_environment_pass" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_environment_pass_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_environment_pass_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_material_eval_sample_pdf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_material_eval_sample_pdf" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_motion_vec" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_motion_vec" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_present" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_present" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_present_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_present_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_print_debug" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_print_debug" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_rasterize" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_rasterize" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_rasterize_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_rasterize_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_ray_launch" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_ray_launch" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_rayleigh_sommerfeld" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_rayleigh_sommerfeld" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_rng_buffer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_rng_buffer" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_rng_texture" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_rng_texture" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_scatter_contribution" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_scatter_contribution" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_shadertoy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_shadertoy" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_shadertoy_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_shadertoy_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_shadow_mapping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_shadow_mapping" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_shadow_mapping_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_shadow_mapping_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_ssao" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_ssao" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_ssao_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_ssao_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_taa" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_taa" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_transparent_refraction" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_transparent_refraction" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_render_transparent_refraction_gl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_render_transparent_refraction_gl" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_set_texture" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_set_texture" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_set_vert_color" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_set_vert_color" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_shortest_path" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_shortest_path" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_storage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_storage" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_sub" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_sub" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_sync_sockets" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_sync_sockets" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_test_2d_function" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_test_2d_function" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_test_random_color" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_test_random_color" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_test_random_quantity" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_test_random_quantity" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_test_socket" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_test_socket" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_test_uv" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_test_uv" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_time_code" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_time_code" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_transform_compose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_transform_compose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_transform_decompose" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_transform_decompose" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_transform_geom" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_transform_geom" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_triangulate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_triangulate" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_value" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_value" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_vector_to_usd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_vector_to_usd" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_vertedge_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_vertedge_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_vertface_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_vertface_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_vertmesh_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_vertmesh_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_vertvert_dist" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_vertvert_dist" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_visualize_2d_function" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_visualize_2d_function" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_visualize_vertices_path" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_visualize_vertices_path" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_write_polyscope" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_write_polyscope" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="node_write_usd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="node_write_usd" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodes_core" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nodes_core" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodes_system" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nodes_system" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nodes_ui_imgui" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nodes_ui_imgui" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nvrhi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="nvrhi" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="optimization_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="optimization_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polyscope" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="polyscope" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polyscope_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="polyscope_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polyscope_widget" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="polyscope_widget" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="render_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="render_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simd" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="simd" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simulation_zone" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="simulation_zone" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="stage" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stage_listener" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="stage_listener" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stb_image" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="stb_image" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="submissions_inner_nodes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="submissions_inner_nodes" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="submissions_nodes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="submissions_nodes" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sys" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="sys" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tasking" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="tasking" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_1" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_10" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_11" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_11" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_2" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_3" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_4" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_4" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_5" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_6" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_7" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_7" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_8" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_8" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_function_9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_function_9" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_input" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_input" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_integration" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_integration" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_node_mvc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_node_mvc" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_nodes_json_target" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_nodes_json_target" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_output" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_output" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_package" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="test_package" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tome_mapping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="tome_mapping" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="translation_orientation_to_transforms" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="translation_orientation_to_transforms" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangle" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="triangle" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="uninstall" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update_mappings" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="update_mappings" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usdview_widget" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="USTC_CG_Framework3D" TARGET_NAME="usdview_widget" CONFIG_NAME="Release-Visual Studio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有 CTest" type="CTestRunConfiguration" factoryName="CTestRun" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Release-Visual Studio" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Google Test.GUI_test" />
+      <item itemvalue="Google Test.USTC_CG_polyscope_test" />
+      <item itemvalue="Google Test.USTC_CG_test" />
+      <item itemvalue="Google Test.cpu_slang_test" />
+      <item itemvalue="Google Test.cuda_extension_test" />
+      <item itemvalue="Google Test.device_object_pool_test" />
+      <item itemvalue="Google Test.geometry_processing_test" />
+      <item itemvalue="Google Test.mtlx_test" />
+      <item itemvalue="Google Test.node_system_test" />
+      <item itemvalue="Google Test.node_ui_test" />
+      <item itemvalue="Google Test.nodes_core_test" />
+      <item itemvalue="Google Test.nodes_exec_test" />
+      <item itemvalue="Google Test.renderer_test" />
+      <item itemvalue="Google Test.rhi_test" />
+      <item itemvalue="Google Test.stage_test" />
+      <item itemvalue="Google Test.usd_fileviewer_test" />
+      <item itemvalue="Google Test.usdview_widget_test" />
+      <item itemvalue="CMake 应用程序.GUI" />
+      <item itemvalue="CMake 应用程序.Logger" />
+      <item itemvalue="CMake 应用程序.OpenMeshCore" />
+      <item itemvalue="CMake 应用程序.OpenMeshTools" />
+      <item itemvalue="CMake 应用程序.RHI" />
+      <item itemvalue="CMake 应用程序.accumulate" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_arap" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_boundary_mapping" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_mass_spring" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_mesh_editing" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_min_surf" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_deferred_lighting_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_environment_pass_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_rasterize_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_shadertoy_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_shadow_mapping_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_render_ssao_gl" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_sample_particles_in_box" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_node_sph_fluid" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_nodes_hw_submissions_json_target" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_nodes_hw_submissions_render_json_target" />
+      <item itemvalue="CMake 应用程序.assignments8_lty_util_lib_static" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_hw0" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_deferred_lighting_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_environment_pass_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_rasterize_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_shadertoy_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_shadow_mapping_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_node_render_ssao_gl" />
+      <item itemvalue="CMake 应用程序.assignments_inner_nodes_hw_submissions_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_inner_nodes_hw_submissions_render_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_arap" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_boundary_mapping" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_mesh_editing" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_min_surf" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_min_surf_cotangent_weight" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_deferred_lighting_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_environment_pass_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_rasterize_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_shadertoy_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_shadow_mapping_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_node_render_ssao_gl" />
+      <item itemvalue="CMake 应用程序.assignments_lty_nodes_hw_submissions_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_lty_nodes_hw_submissions_render_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_lty_util_lib_static" />
+      <item itemvalue="CMake 应用程序.assignments_node_arap" />
+      <item itemvalue="CMake 应用程序.assignments_node_boundary_mapping" />
+      <item itemvalue="CMake 应用程序.assignments_node_mass_spring" />
+      <item itemvalue="CMake 应用程序.assignments_node_mesh_editing" />
+      <item itemvalue="CMake 应用程序.assignments_node_min_surf" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_deferred_lighting_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_environment_pass_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_rasterize_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_shadertoy_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_shadow_mapping_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_render_ssao_gl" />
+      <item itemvalue="CMake 应用程序.assignments_node_sample_particles_in_box" />
+      <item itemvalue="CMake 应用程序.assignments_node_sph_fluid" />
+      <item itemvalue="CMake 应用程序.assignments_nodes_hw_submissions_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_nodes_hw_submissions_render_json_target" />
+      <item itemvalue="CMake 应用程序.assignments_util_lib_static" />
+      <item itemvalue="CMake 应用程序.automatic_tonemapper" />
+      <item itemvalue="CMake 应用程序.basic_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.build" />
+      <item itemvalue="CMake 应用程序.demos" />
+      <item itemvalue="CMake 应用程序.embree" />
+      <item itemvalue="CMake 应用程序.embree_avx2" />
+      <item itemvalue="CMake 应用程序.embree_avx" />
+      <item itemvalue="CMake 应用程序.embree_sse42" />
+      <item itemvalue="CMake 应用程序.function_add_backward" />
+      <item itemvalue="CMake 应用程序.function_add_forward_dual" />
+      <item itemvalue="CMake 应用程序.function_add_forward_real" />
+      <item itemvalue="CMake 应用程序.function_composition_backward" />
+      <item itemvalue="CMake 应用程序.function_composition_forward_dual" />
+      <item itemvalue="CMake 应用程序.function_composition_forward_real" />
+      <item itemvalue="CMake 应用程序.function_multiply_backward" />
+      <item itemvalue="CMake 应用程序.function_multiply_forward_dual" />
+      <item itemvalue="CMake 应用程序.function_multiply_forward_real" />
+      <item itemvalue="CMake 应用程序.geometry" />
+      <item itemvalue="CMake 应用程序.geometry_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.gl_based_render_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.glad" />
+      <item itemvalue="CMake 应用程序.glfw" />
+      <item itemvalue="CMake 应用程序.glm" />
+      <item itemvalue="CMake 应用程序.gmock" />
+      <item itemvalue="CMake 应用程序.gmock_main" />
+      <item itemvalue="CMake 应用程序.gradient_backward" />
+      <item itemvalue="CMake 应用程序.gradient_forward_dual" />
+      <item itemvalue="CMake 应用程序.gradient_forward_real" />
+      <item itemvalue="CMake 应用程序.gtest" />
+      <item itemvalue="CMake 应用程序.gtest_main" />
+      <item itemvalue="CMake 应用程序.hd_USTC_CG_Embree" />
+      <item itemvalue="CMake 应用程序.hd_USTC_CG_GL" />
+      <item itemvalue="CMake 应用程序.hd_USTC_CG" />
+      <item itemvalue="CMake 应用程序.hessian_backward" />
+      <item itemvalue="CMake 应用程序.hessian_forward" />
+      <item itemvalue="CMake 应用程序.igl_core" />
+      <item itemvalue="CMake 应用程序.igl_restricted_triangle" />
+      <item itemvalue="CMake 应用程序.imgui" />
+      <item itemvalue="CMake 应用程序.l_bfgs_backward" />
+      <item itemvalue="CMake 应用程序.l_bfgs_forward_dual" />
+      <item itemvalue="CMake 应用程序.l_bfgs_forward_real" />
+      <item itemvalue="CMake 应用程序.lexers" />
+      <item itemvalue="CMake 应用程序.math" />
+      <item itemvalue="CMake 应用程序.miss_sky" />
+      <item itemvalue="CMake 应用程序.newton_backward" />
+      <item itemvalue="CMake 应用程序.newton_forward" />
+      <item itemvalue="CMake 应用程序.node_add" />
+      <item itemvalue="CMake 应用程序.node_arap_energy" />
+      <item itemvalue="CMake 应用程序.node_bbw" />
+      <item itemvalue="CMake 应用程序.node_bouncing_balls" />
+      <item itemvalue="CMake 应用程序.node_conversion" />
+      <item itemvalue="CMake 应用程序.node_create_geom" />
+      <item itemvalue="CMake 应用程序.node_curvature" />
+      <item itemvalue="CMake 应用程序.node_curve_to_mesh" />
+      <item itemvalue="CMake 应用程序.node_dirichlet_energy" />
+      <item itemvalue="CMake 应用程序.node_dynamic_socket" />
+      <item itemvalue="CMake 应用程序.node_edgeedge_dist" />
+      <item itemvalue="CMake 应用程序.node_equal" />
+      <item itemvalue="CMake 应用程序.node_extract_areas" />
+      <item itemvalue="CMake 应用程序.node_extract_boundary" />
+      <item itemvalue="CMake 应用程序.node_extract_singlar_values" />
+      <item itemvalue="CMake 应用程序.node_float_3dto2d" />
+      <item itemvalue="CMake 应用程序.node_func_buffer_compose" />
+      <item itemvalue="CMake 应用程序.node_func_buffer_decompose" />
+      <item itemvalue="CMake 应用程序.node_func_color_map" />
+      <item itemvalue="CMake 应用程序.node_func_create_buffer" />
+      <item itemvalue="CMake 应用程序.node_geom_add_point" />
+      <item itemvalue="CMake 应用程序.node_get_control_points" />
+      <item itemvalue="CMake 应用程序.node_get_current_usd_path" />
+      <item itemvalue="CMake 应用程序.node_get_picked_face" />
+      <item itemvalue="CMake 应用程序.node_get_picked_vertex" />
+      <item itemvalue="CMake 应用程序.node_get_picked_vertices" />
+      <item itemvalue="CMake 应用程序.node_get_polyscope_transform" />
+      <item itemvalue="CMake 应用程序.node_get_polyscope_vertex_pos" />
+      <item itemvalue="CMake 应用程序.node_get_polyscope_vertices" />
+      <item itemvalue="CMake 应用程序.node_get_vertices_by_left_click" />
+      <item itemvalue="CMake 应用程序.node_hbc" />
+      <item itemvalue="CMake 应用程序.node_iteration" />
+      <item itemvalue="CMake 应用程序.node_lscm" />
+      <item itemvalue="CMake 应用程序.node_math" />
+      <item itemvalue="CMake 应用程序.node_merge_geometry" />
+      <item itemvalue="CMake 应用程序.node_mesh_add_quantity" />
+      <item itemvalue="CMake 应用程序.node_mesh_compose" />
+      <item itemvalue="CMake 应用程序.node_mesh_decompose" />
+      <item itemvalue="CMake 应用程序.node_meshmesh_dist" />
+      <item itemvalue="CMake 应用程序.node_mvc" />
+      <item itemvalue="CMake 应用程序.node_node_render_ray_generation" />
+      <item itemvalue="CMake 应用程序.node_points_to_mesh" />
+      <item itemvalue="CMake 应用程序.node_print" />
+      <item itemvalue="CMake 应用程序.node_print_debug_info" />
+      <item itemvalue="CMake 应用程序.node_random_uv_points" />
+      <item itemvalue="CMake 应用程序.node_read_obj" />
+      <item itemvalue="CMake 应用程序.node_read_usd" />
+      <item itemvalue="CMake 应用程序.node_render_blit_to_present" />
+      <item itemvalue="CMake 应用程序.node_render_camera_info" />
+      <item itemvalue="CMake 应用程序.node_render_create_empty_texture" />
+      <item itemvalue="CMake 应用程序.node_render_deferred_lighting" />
+      <item itemvalue="CMake 应用程序.node_render_deferred_lighting_gl" />
+      <item itemvalue="CMake 应用程序.node_render_environment_pass" />
+      <item itemvalue="CMake 应用程序.node_render_environment_pass_gl" />
+      <item itemvalue="CMake 应用程序.node_render_material_eval_sample_pdf" />
+      <item itemvalue="CMake 应用程序.node_render_motion_vec" />
+      <item itemvalue="CMake 应用程序.node_render_present" />
+      <item itemvalue="CMake 应用程序.node_render_present_gl" />
+      <item itemvalue="CMake 应用程序.node_render_print_debug" />
+      <item itemvalue="CMake 应用程序.node_render_rasterize" />
+      <item itemvalue="CMake 应用程序.node_render_rasterize_gl" />
+      <item itemvalue="CMake 应用程序.node_render_ray_launch" />
+      <item itemvalue="CMake 应用程序.node_render_rayleigh_sommerfeld" />
+      <item itemvalue="CMake 应用程序.node_render_rng_buffer" />
+      <item itemvalue="CMake 应用程序.node_render_rng_texture" />
+      <item itemvalue="CMake 应用程序.node_render_scatter_contribution" />
+      <item itemvalue="CMake 应用程序.node_render_shadertoy" />
+      <item itemvalue="CMake 应用程序.node_render_shadertoy_gl" />
+      <item itemvalue="CMake 应用程序.node_render_shadow_mapping" />
+      <item itemvalue="CMake 应用程序.node_render_shadow_mapping_gl" />
+      <item itemvalue="CMake 应用程序.node_render_ssao" />
+      <item itemvalue="CMake 应用程序.node_render_ssao_gl" />
+      <item itemvalue="CMake 应用程序.node_render_taa" />
+      <item itemvalue="CMake 应用程序.node_render_transparent_refraction" />
+      <item itemvalue="CMake 应用程序.node_render_transparent_refraction_gl" />
+      <item itemvalue="CMake 应用程序.node_set_texture" />
+      <item itemvalue="CMake 应用程序.node_set_vert_color" />
+      <item itemvalue="CMake 应用程序.node_shortest_path" />
+      <item itemvalue="CMake 应用程序.node_storage" />
+      <item itemvalue="CMake 应用程序.node_sub" />
+      <item itemvalue="CMake 应用程序.node_sync_sockets" />
+      <item itemvalue="CMake 应用程序.node_test_2d_function" />
+      <item itemvalue="CMake 应用程序.node_test_random_color" />
+      <item itemvalue="CMake 应用程序.node_test_random_quantity" />
+      <item itemvalue="CMake 应用程序.node_test_socket" />
+      <item itemvalue="CMake 应用程序.node_test_uv" />
+      <item itemvalue="CMake 应用程序.node_time_code" />
+      <item itemvalue="CMake 应用程序.node_transform_compose" />
+      <item itemvalue="CMake 应用程序.node_transform_decompose" />
+      <item itemvalue="CMake 应用程序.node_transform_geom" />
+      <item itemvalue="CMake 应用程序.node_triangulate" />
+      <item itemvalue="CMake 应用程序.node_value" />
+      <item itemvalue="CMake 应用程序.node_vector_to_usd" />
+      <item itemvalue="CMake 应用程序.node_vertedge_dist" />
+      <item itemvalue="CMake 应用程序.node_vertface_dist" />
+      <item itemvalue="CMake 应用程序.node_vertmesh_dist" />
+      <item itemvalue="CMake 应用程序.node_vertvert_dist" />
+      <item itemvalue="CMake 应用程序.node_visualize_2d_function" />
+      <item itemvalue="CMake 应用程序.node_visualize_vertices_path" />
+      <item itemvalue="CMake 应用程序.node_write_polyscope" />
+      <item itemvalue="CMake 应用程序.node_write_usd" />
+      <item itemvalue="CMake 应用程序.nodes_core" />
+      <item itemvalue="CMake 应用程序.nodes_system" />
+      <item itemvalue="CMake 应用程序.nodes_ui_imgui" />
+      <item itemvalue="CMake 应用程序.nvrhi" />
+      <item itemvalue="CMake 应用程序.optimization_json_target" />
+      <item itemvalue="CMake 应用程序.polyscope" />
+      <item itemvalue="CMake 应用程序.polyscope_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.polyscope_widget" />
+      <item itemvalue="CMake 应用程序.render_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.simd" />
+      <item itemvalue="CMake 应用程序.simulation_zone" />
+      <item itemvalue="CMake 应用程序.stage" />
+      <item itemvalue="CMake 应用程序.stage_listener" />
+      <item itemvalue="CMake 应用程序.stb_image" />
+      <item itemvalue="CMake 应用程序.submissions_inner_nodes" />
+      <item itemvalue="CMake 应用程序.submissions_nodes" />
+      <item itemvalue="CMake 应用程序.sys" />
+      <item itemvalue="CMake 应用程序.tasking" />
+      <item itemvalue="CMake 应用程序.test_function_10" />
+      <item itemvalue="CMake 应用程序.test_function_11" />
+      <item itemvalue="CMake 应用程序.test_function_1" />
+      <item itemvalue="CMake 应用程序.test_function_2" />
+      <item itemvalue="CMake 应用程序.test_function_3" />
+      <item itemvalue="CMake 应用程序.test_function_4" />
+      <item itemvalue="CMake 应用程序.test_function_5" />
+      <item itemvalue="CMake 应用程序.test_function_6" />
+      <item itemvalue="CMake 应用程序.test_function_7" />
+      <item itemvalue="CMake 应用程序.test_function_8" />
+      <item itemvalue="CMake 应用程序.test_function_9" />
+      <item itemvalue="CMake 应用程序.test_input" />
+      <item itemvalue="CMake 应用程序.test_integration" />
+      <item itemvalue="CMake 应用程序.test_node_mvc" />
+      <item itemvalue="CMake 应用程序.test_nodes_json_target" />
+      <item itemvalue="CMake 应用程序.test_output" />
+      <item itemvalue="CMake 应用程序.test_package" />
+      <item itemvalue="CMake 应用程序.tome_mapping" />
+      <item itemvalue="CMake 应用程序.translation_orientation_to_transforms" />
+      <item itemvalue="CMake 应用程序.triangle" />
+      <item itemvalue="CMake 应用程序.uninstall" />
+      <item itemvalue="CMake 应用程序.update_mappings" />
+      <item itemvalue="CMake 应用程序.usdview_widget" />
+      <item itemvalue="CTest 应用程序.所有 CTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="22c10da4-eaa1-44a8-83d5-159decc95ffb" name="更改" comment="" />
+      <created>1744030242737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744030242737</updated>
+      <workItem from="1744030244807" duration="4783000" />
+      <workItem from="1744100965094" duration="3000" />
+      <workItem from="1744185174299" duration="8379000" />
+      <workItem from="1744524248374" duration="727000" />
+      <workItem from="1744525808870" duration="6434000" />
+      <workItem from="1744540644730" duration="15526000" />
+      <workItem from="1744703098562" duration="1559000" />
+      <workItem from="1745146024674" duration="15574000" />
+      <workItem from="1746252885896" duration="8380000" />
+      <workItem from="1746347661526" duration="660000" />
+      <workItem from="1746695529303" duration="3000" />
+      <workItem from="1746765574683" duration="1195000" />
+      <workItem from="1746766834417" duration="49000" />
+      <workItem from="1746766907340" duration="27000" />
+      <workItem from="1746767022295" duration="48000" />
+      <workItem from="1746767221062" duration="399000" />
+      <workItem from="1746767642126" duration="171000" />
+      <workItem from="1746767929047" duration="389000" />
+      <workItem from="1746768344250" duration="160000" />
+      <workItem from="1746768651952" duration="204000" />
+      <workItem from="1746768906151" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeGoogleTestRunConfigurationType">
+        <watch expression="$rdi" />
+        <watch expression="$rdi" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

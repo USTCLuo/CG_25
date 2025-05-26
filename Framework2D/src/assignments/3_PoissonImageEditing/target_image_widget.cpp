@@ -1,6 +1,7 @@
 #include "target_image_widget.h"
 
 #include <cmath>
+#include "seamless_clone.h"
 
 namespace USTC_CG
 {
@@ -119,11 +120,45 @@ void TargetImageWidget::clone()
         }
         case USTC_CG::TargetImageWidget::kSeamless:
         {
-            // HW3_TODO: You should implement your own seamless cloning. For
-            // each pixel in the selected region, calculate the final RGB color
-            // by solving Poisson Equations.
+            // 恢复目标图像的备份
             restore();
 
+            // 创建 SeamlessClone 对象
+            SeamlessClone seamless_clone;
+
+            // 设置源图像、目标图像、掩码和偏移量
+            seamless_clone.set_src_img(source_image_->get_data());
+            seamless_clone.set_tar_img(data_);
+            seamless_clone.set_src_selected_mask(mask);
+            seamless_clone.set_offset(
+                static_cast<int>(mouse_position_.x) - static_cast<int>(source_image_->get_position().x),
+                static_cast<int>(mouse_position_.y) - static_cast<int>(source_image_->get_position().y));
+
+            //预分解A
+            seamless_clone.precomputed_A();
+            
+            // 调用 solve 方法获取结果图像
+            std::shared_ptr<Image> result_image = seamless_clone.solve();
+
+            // 将结果图像应用到目标图像中
+            for (int y = 0; y < result_image->height(); ++y)
+            {
+                for (int x = 0; x < result_image->width(); ++x)
+                {
+                    if (mask->get_pixel(x, y)[0] > 0) // 检查掩码是否选中该像素
+                    {
+                        int tar_x = x + seamless_clone.get_offset_x();
+                        int tar_y = y + seamless_clone.get_offset_y();
+                        if (0 <= tar_x && tar_x < image_width_ && 0 <= tar_y && tar_y < image_height_)
+                        {
+                            data_->set_pixel(tar_x, tar_y, result_image->get_pixel(x, y));
+                        }
+                    }
+                }
+            }
+
+            // 更新目标图像
+            update();
             break;
         }
         default: break;

@@ -1,4 +1,7 @@
 // HW2_TODO: Please implement the abstract class Warper
+#include <vector>
+#include <utility>
+
 // 1. The Warper class should abstract the **mathematical mapping** involved in
 // the warping problem, **independent of image**.
 // 2. The Warper class should have a virtual function warp(...) to be called in
@@ -18,6 +21,7 @@ class Warper
     virtual ~Warper() = default;
 
     // HW2_TODO: A virtual function warp(...)
+    virtual  std::pair<double,double> warp(double x,double y) = 0;
     
     // HW2_TODO: other functions or variables if you need
 };

@@ -1,4 +1,5 @@
 #include "canvas_widget.h"
+#include "shapes/shape.h"
 
 #include <cmath>
 #include <iostream>
@@ -6,15 +7,23 @@
 #include "imgui.h"
 #include "shapes/line.h"
 #include "shapes/rect.h"
+#include "shapes/ellipse.h"
+#include "shapes/polygon.h"
+#include "shapes/freehand.h"
 
 namespace USTC_CG
 {
+    Shape::Config s;
+    float thickset=2.0f;
+    int colorset[4]={255,0,0,255};
 void Canvas::draw()
 {
     draw_background();
     // HW1_TODO: more interaction events
     if (is_hovered_ && ImGui::IsMouseClicked(ImGuiMouseButton_Left))
         mouse_click_event();
+    if (is_hovered_ && ImGui::IsMouseClicked(ImGuiMouseButton_Right))
+        mouse_right_click_event();
     mouse_move_event();
     if (!ImGui::IsMouseDown(ImGuiMouseButton_Left))
         mouse_release_event();
@@ -56,6 +65,33 @@ void Canvas::set_rect()
 
 // HW1_TODO: more shape types, implements
 
+void Canvas::set_ellipse()
+{
+    draw_status_ = false;
+    shape_type_ = kEllipse;
+}
+void Canvas::set_polygon()
+{
+    draw_status_ = false;
+    shape_type_ = kPolygon;
+}
+void Canvas::set_freehand()
+{
+    draw_status_ = false;
+    shape_type_ = kFreehand;
+}
+void Canvas::set_thickness()
+{   
+    std::cin >> thickset;
+}
+void Canvas::set_color()
+{
+    for(int i=0;i<4;i++)
+    {
+        std::cin >> colorset[i];
+    }
+}
+
 void Canvas::clear_shape_list()
 {
     shape_list_.clear();
@@ -81,8 +117,13 @@ void Canvas::draw_background()
 }
 
 void Canvas::draw_shapes()
-{
-    Shape::Config s = { .bias = { canvas_min_.x, canvas_min_.y } };
+{  
+    s = { .bias = { canvas_min_.x, canvas_min_.y } };
+    s.line_thickness = thickset;
+    for(int i=0;i<4;i++)
+    {
+        s.line_color[i] = colorset[i];
+    }
     ImDrawList* draw_list = ImGui::GetWindowDrawList();
 
     // ClipRect can hide the drawing content outside of the rectangular area
@@ -102,7 +143,7 @@ void Canvas::mouse_click_event()
 {
     // HW1_TODO: Drawing rule for more primitives
     if (!draw_status_)
-    {
+    {   
         draw_status_ = true;
         start_point_ = end_point_ = mouse_pos_in_canvas();
         switch (shape_type_)
@@ -124,16 +165,42 @@ void Canvas::mouse_click_event()
                 break;
             }
             // HW1_TODO: case USTC_CG::Canvas::kEllipse:
+            case USTC_CG::Canvas::kEllipse:
+            {
+                current_shape_ = std::make_shared<Ellipse>(
+                    start_point_.x, start_point_.y, end_point_.x, end_point_.y
+                );
+                break;
+            }
+            case USTC_CG::Canvas::kPolygon:
+            {
+                current_shape_ = std::make_shared<Polygon>();
+                auto polygon = std::dynamic_pointer_cast<Polygon>(current_shape_);
+                polygon->add_point(start_point_.x, start_point_.y); // 固定点
+                polygon->add_point(start_point_.x, start_point_.y); // 动态点
+                draw_status_ = true;
+                break;
+            }
+            case USTC_CG::Canvas::kFreehand:
+            {
+                current_shape_ = std::make_shared<Freehand>();
+                auto freehand = std::dynamic_pointer_cast<Freehand>(current_shape_);
+                draw_status_ = true;
+                break;
+            }
             default: break;
         }
     }
-    else
+    else 
     {
-        draw_status_ = false;
-        if (current_shape_)
+        // 只处理多边形的顶点添加
+        if (shape_type_ == kPolygon) 
         {
-            shape_list_.push_back(current_shape_);
-            current_shape_.reset();
+            auto polygon = std::dynamic_pointer_cast<Polygon>(current_shape_);
+            if (polygon) 
+            {
+                polygon->add_point(end_point_.x, end_point_.y);
+            }
         }
     }
 }
@@ -146,14 +213,72 @@ void Canvas::mouse_move_event()
         end_point_ = mouse_pos_in_canvas();
         if (current_shape_)
         {
-            current_shape_->update(end_point_.x, end_point_.y);
+            if(shape_type_ == kPolygon){
+                auto polygon = std::dynamic_pointer_cast<Polygon>(current_shape_);
+                if(polygon && !polygon->get_points().empty())
+                {
+                    auto& points = polygon->get_points();
+                    points.back().first = end_point_.x;
+                    points.back().second = end_point_.y;
+                }
+            }
+            else if(shape_type_ == kFreehand)
+            {
+                auto freehand = std::dynamic_pointer_cast<Freehand>(current_shape_);
+                freehand->add_point(start_point_.x, start_point_.y); // 动态点
+                current_shape_->update(end_point_.x, end_point_.y);
+                if(freehand && !freehand->get_points().empty())
+                {
+                    auto& points = freehand->get_points();
+                    points.back().first = end_point_.x;
+                    points.back().second = end_point_.y;
+                }
+            }
+            else
+            {
+                current_shape_->update(end_point_.x, end_point_.y);
+            }
         }
     }
 }
 
+void Canvas::mouse_right_click_event()
+{
+    if (shape_type_ == kPolygon && current_shape_) 
+    {
+        auto polygon = std::dynamic_pointer_cast<Polygon>(current_shape_);
+        if (polygon && polygon->get_points().size() >= 3) 
+        {
+            // 移除最后的动态顶点
+            auto& points = polygon->get_points();
+            points.pop_back();
+            // 完成绘制
+            shape_list_.push_back(current_shape_);
+            current_shape_.reset();
+            draw_status_ = false;
+        }
+    }
+}
 void Canvas::mouse_release_event()
 {
-    // HW1_TODO: Drawing rule for more primitives
+    if (draw_status_)
+    {
+        // 只处理非多边形图形的结束
+        if (shape_type_ != kPolygon)
+        {
+            end_point_ = mouse_pos_in_canvas();
+            if (current_shape_)
+            {
+                // 更新终点坐标
+                current_shape_->update(end_point_.x, end_point_.y);
+                // 将当前图形添加到列表
+                shape_list_.push_back(current_shape_);
+                // 重置当前图形和绘制状态
+                current_shape_.reset();
+                draw_status_ = false;
+            }
+        }
+    }
 }
 
 ImVec2 Canvas::mouse_pos_in_canvas() const

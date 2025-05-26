@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework2D/third_party/ImGuiFileDialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework2D/third_party/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework2D/third_party/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/build/_deps/triangle-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/cmake-build-debug/_deps/triangle-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/OpenMesh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/OpenMesh/cmake-library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/autodiff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/eigen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/entt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/libigl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nanobind" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nanobind/ext/robin_map" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nvapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nvrhi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nvrhi/rtxmu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/nvrhi/thirdparty/Vulkan-Headers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/polyscope" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/polyscope/deps/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/polyscope/deps/glm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/polyscope/deps/happly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework3D/Framework3D/external/polyscope/deps/imgui/imgui" vcs="Git" />
+  </component>
+</project>
